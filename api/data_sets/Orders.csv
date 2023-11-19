@@ -1,0 +1,8 @@
+Order_id,User_Name,Food_id,Quantity,Price,Payment_id,Payment_Status,Order_Status,Canteen_Name
+1,AAA,3,2,500.0,asbsdfbt12bsfb,paid,complete,udupi
+2,BBB,1,1,34.0,asbsdfbt12bsfasfd34b,paid,preparaing,munch
+3,AAA,1,1,34.0,asbsdfbt12bsfasfd34bf,paid,collected,udupi
+4,AAA,1,1,34.0,asbsdfbt12bsfasfd34bf,paid,reverted,udupi
+5,CCC,3,1,50.0,asbsdfbt12bsfasfd34bf,paid,waiting,munch
+6,CCC,3,1,50.0,asbsdfbt12bsfasfd34bf,paid,waiting,munch
+7,BBB,3,1,34.0,asbsdfbt12bsfasfd34bf,paid,complete,munch

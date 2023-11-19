@@ -1,0 +1,11 @@
+Food_Id,Food_Name,Food_Price,Canteen_Name,Food_Type,Food_Cat,Food_Description,Food_Number,Ingredients
+1,dosa,60,udupi,veg,south indian, thin savory pancake in South Indian cuisine made from a fermented batter of ground black lentils and rice.,123,"rice, urad dal, fenugreek seeds, poha, rock salt"
+2,masala dosa,80,munch,veg,south indian,"It is made from rice, lentils, Urad dal, Chana dal, fenugreek, puffed rice, Toor dal, dry red chilli and served with potato curry, chutneys, and sambar.",268,"urad dal, chana dal, rice, poha, fenugreek seeds, non-iodized salt, potato, mustard seeds, ginger, onion"
+3,egg roll,80,udupi,non veg,rolls,"It is a cylindrical, savory roll with shredded cabbage, chopped meat, or other fillings inside a thickly-wrapped wheat flour skin, which is fried in hot oil.",425,"ginger, garlic, egg, cabbage, carrots, flour"
+4,chicken roll,90,udupi,non veg,rolls,"It is a cylindrical roll filled with a fillet of processed chicken. Served with ketchup, mayonnaise, spicy sauce and extra fillings of your choice.",216,"ginger, garlic, chicken, cabbage, carrots, flour"
+5,fried rice,150,munch,veg,rice,"Fresh rice sauteed in oil with capsicum, lettuce, carrots and extra toppings of your choice.",245,"carrots, peas, garlic, white rice, soy sauce"
+6,maggi,60,munch,veg,chinese,pre-packaged fermented wheat noodles that is put into boiling water and cooked for a few mins. Served hot with toppings of your choice.,316,as per pack
+7,Paneer burger,145,munch,veg,south indian,"A burger with a freshly fried paneer patty, lettuce, slice of onion and tomato and ketchup.",223,"paneer, chilli powder, green chili, ginger, garlic, onion, tomato, ketchup"
+8,Vada pav,100,munch,veg,south indian,This dish consists of a deep fried potato dumpling placed inside a bread bun sliced almost in half through the middle. Served with green chutney and green chili.,136,"buns, potato, green chutney, tamarind chutney, garlic chutney, green chili"
+9,Choco milkshake,140,udupi,juice,drinks,Cold chocolate milkshake to cool you on a sunny day.,105,"milk, chocolate ice cream, chocolate sauce"
+10,Chicken biryani,200,munch,non veg,Chicken,Flavoured rice mixed with chunks of chicken. Served with raita and onion slices.,100,"yogurt, ginger, garlic, garam masala, chicken, rice, spices"
